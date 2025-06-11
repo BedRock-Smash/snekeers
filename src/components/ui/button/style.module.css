@@ -1,0 +1,19 @@
+.button {
+    display: inline-flex;
+    align-items: center;
+    gap: 15px;
+    border-radius: 30px;
+    border: none;
+    padding: 15px 25px;
+    cursor: pointer;
+}
+
+.light {
+    color: rgb(142, 139, 139);
+    background-color: blueviolet;
+}
+
+.dark {
+    background-color: #ee3e79;
+    color: #cb173e;
+}
